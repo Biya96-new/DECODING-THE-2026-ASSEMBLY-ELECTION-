@@ -1,0 +1,435 @@
+ac_name,ac_no.,type,district,winning_candidate,party,total_electors,total_votes,poll_pct,margin,margin_pct
+Alandur,28,GEN,Kancheepuram,T.M.Anbarasan,DMK,"363,029","235,863",65.00,"40,571",17.20
+Alangudi,182,GEN,Pudukkottai,Siva.V.Meyyanathan,DMK,"203,445","171,140",84.10,"25,847",15.10
+Alangulam,223,GEN,Tirunelveli,Paul Manoj Pandian,AIADMK,"252,558","201,692",79.90,"3,539",1.80
+Ambasamudram,225,GEN,Tirunelveli,E.Subaya,AIADMK,"242,456","176,008",72.60,"16,915",9.60
+Ambattur,8,GEN,Thiruvallur,Joseph Samuel,DMK,"361,656","237,941",65.80,"42,146",17.70
+Ambur,48,GEN,Vellore,Vilwanathan.A.C,DMK,"225,328","176,461",78.30,"20,232",11.50
+Anaikattu,44,GEN,Vellore,A.P.Nandakumar,DMK,"241,068","196,014",81.30,"6,360",3.20
+Andipatti,198,GEN,Theni,A.Maharajan,DMK,"264,498","208,207",78.70,"8,538",4.10
+Anna Nagar,21,GEN,Chennai,M.K. Mohan,DMK,"274,067","163,551",59.70,"27,445",16.80
+Anthiyur,105,GEN,Erode,Venkatachalam.A.G,DMK,"213,651","175,358",82.10,"1,275",0.70
+Arakkonam,38,SC,Vellore,S.Ravi,AIADMK,"216,909","169,756",78.30,"27,169",16.00
+Arani,67,GEN,Tiruvannamalai,S.Ramachandran,AIADMK,"264,335","219,732",83.10,"3,128",1.40
+Aranthangi,183,GEN,Pudukkottai,Ramachandran T,INC,"222,766","167,524",75.20,"30,893",18.40
+Aravakurichi,134,GEN,Karur,Elango. R,DMK,"205,295","176,245",85.80,"24,816",14.10
+Arcot,42,GEN,Vellore,J.L.Eswarappan,DMK,"251,362","207,538",82.60,"19,958",9.60
+Ariyalur,149,GEN,Perambalur,Chinnappa K,DMK,"254,281","223,839",88.00,"3,234",1.40
+Aruppukkottai,207,GEN,Virudhunagar,K.K.S.S.R.Ramachandran,DMK,"214,554","169,878",79.20,"39,034",23.00
+Athoor,129,GEN,Dindigul,Periyasamy I,DMK,"279,399","228,376",81.70,"135,571",59.40
+Attur,82,SC,Salem,"Jayasankaran, A.P.",AIADMK,"243,631","197,909",81.20,"8,257",4.20
+Avadi,6,GEN,Thiruvallur,Nasar S M,DMK,"409,701","298,546",72.90,"55,275",18.50
+Avanashi,112,SC,Coimbatore,"Dhanapal, P",AIADMK,"265,952","210,255",79.10,"50,902",24.20
+Bargur,52,GEN,Krishnagiri,Mathiazhagan D,DMK,"238,180","196,277",82.40,"12,614",6.40
+Bhavani,104,GEN,Erode,Karuppanan.K.C,AIADMK,"234,551","199,306",85.00,"22,523",11.30
+Bhavanisagar,107,SC,Erode,A.Bannari,AIADMK,"248,797","198,562",79.80,"16,008",8.10
+Bhuvanagiri,157,GEN,Cuddalore,Arunmozhithevan. A,AIADMK,"244,178","196,107",80.30,"8,259",4.20
+Bodinayakanur,200,GEN,Theni,O.Panneerselvam,AIADMK,"265,296","213,392",80.40,"11,021",5.20
+Chengalpattu,32,GEN,Kancheepuram,Varalakshmi.M,DMK,"397,706","271,012",68.10,"26,665",9.80
+Chengam,62,SC,Tiruvannamalai,Giri.M.P,DMK,"263,132","222,865",84.70,"11,570",5.20
+Chepauk-Thiruvallikeni,19,GEN,Chennai,Udhayanidhi Stalin,DMK,"226,272","135,344",59.80,"69,355",51.20
+Cheyyar,68,GEN,Tiruvannamalai,Jothi. O,DMK,"249,307","212,565",85.30,"12,271",5.80
+Cheyyur,34,SC,Kancheepuram,Babu M,VCK,"216,506","177,979",82.20,"4,042",2.30
+Chidambaram,158,GEN,Cuddalore,K.A. Pandian,AIADMK,"239,757","182,150",76.00,"16,937",9.30
+Coimbatore (North),118,GEN,Coimbatore,Amman K.Arjunan,AIADMK,"318,780","201,098",63.10,"4,001",2.00
+Coimbatore (South),120,GEN,Coimbatore,Vanathi Srinivasan,BJP,"244,922","153,864",62.80,"1,728",1.10
+Colachal,231,GEN,Kanniyakumari,Prince J.G.,INC,"254,691","182,091",71.50,"24,832",13.60
+Coonoor,110,GEN,The Nilgiris,"Ramachandran, K.",DMK,"186,493","134,720",72.20,"4,105",3.00
+Cuddalore,155,GEN,Cuddalore,G.Iyappan,DMK,"227,937","180,765",79.30,"5,151",2.80
+Cumbum,201,GEN,Theni,N.Ramakrishnan,DMK,"274,002","200,616",73.20,"42,413",21.10
+Dharapuram,101,SC,Erode,Kayalvizhi N,DMK,"251,040","192,088",76.50,"1,393",0.70
+Dharmapuri,59,GEN,Dharmapuri,Venkateshwaran.S.P.,PMK,"256,946","215,607",83.90,"26,860",12.50
+Dindigul,132,GEN,Dindigul,Sreenivasan.C,AIADMK,"261,916","193,311",73.80,"17,747",9.20
+Dr.Radhakrishnan Nagar,11,GEN,Chennai,Ebenezer. J.J. (@) JOHN EBENEZER.J,DMK,"248,518","185,323",74.60,"42,479",22.90
+Edappadi,86,GEN,Salem,Edappadi Palaniswami. K,AIADMK,"274,079","246,192",89.80,"93,802",38.10
+Egmore,16,SC,Chennai,I.Paranthamen,DMK,"181,071","118,095",65.20,"38,768",32.80
+Erode (East),98,GEN,Erode,"Thirumahan Everaa,e.",INC,"218,783","150,491",68.80,"8,904",5.90
+Erode (West),99,GEN,Erode,Muthusamy S,DMK,"272,477","203,611",74.70,"22,089",10.80
+Gandarvakkottai,178,SC,Pudukkottai,M.Chinnadurai,CPI(M),"191,615","156,230",81.50,"12,721",8.10
+Gangavalli,81,SC,Salem,"Nallathambi,a.",AIADMK,"228,181","185,252",81.20,"7,361",4.00
+Gingee,70,GEN,Viluppuram,Masthan K S,DMK,"253,786","204,601",80.60,"35,803",17.50
+Gobichettipalayam,106,GEN,Erode,Sengottaiyan K.A,AIADMK,"247,467","212,974",86.10,"28,563",13.40
+Gudalur,109,SC,The Nilgiris,Pon.Jayaseelan,AIADMK,"182,352","137,240",75.30,"1,945",1.40
+Gudiyattam,46,SC,Vellore,Amulu.V,DMK,"272,216","209,931",77.10,"6,901",3.30
+Gummidipoondi,1,GEN,Thiruvallur,Govindarajan T.J,DMK,"267,255","220,286",82.40,"50,938",23.10
+Harbour,18,GEN,Chennai,Sekarbabu. P.K,DMK,"168,538","100,738",59.80,"27,274",27.10
+Harur,61,SC,Dharmapuri,Sampathkumar.V,AIADMK,"236,142","196,316",83.10,"30,362",15.50
+Hosur,55,GEN,Krishnagiri,Prakaash Y,DMK,"327,242","246,122",75.20,"12,367",5.00
+Jayankondam,150,GEN,Perambalur,Kannan Ka So Ka,DMK,"257,745","214,507",83.20,"5,452",2.50
+Jolarpet,49,GEN,Vellore,Devaraji.K.,DMK,"231,496","195,021",84.20,"1,091",0.60
+Kadayanallur,221,GEN,Tirunelveli,C.Krishnamurali,AIADMK,"275,470","204,318",74.20,"24,349",11.90
+Kalasapakkam,65,GEN,Tiruvannamalai,Saravanan.P.S.T,DMK,"231,257","194,841",84.30,"9,222",4.70
+Kallakurichi,80,SC,Viluppuram,Senthilkumar.M,AIADMK,"272,974","224,601",82.30,"25,891",11.50
+Kancheepuram,37,GEN,Kancheepuram,C.V.M.P. Ezhailzrasan,DMK,"293,532","226,893",77.30,"11,595",5.10
+Kangayam,102,GEN,Erode,Saminathan.M.P,DMK,"246,360","198,791",80.70,"7,331",3.70
+Kanniyakumari,229,GEN,Kanniyakumari,Thalavai Sundaram N.,AIADMK,"279,721","223,778",80.00,"16,213",7.20
+Karaikudi,184,GEN,Sivaganga,S.Mangudi,INC,"301,096","211,107",70.10,"21,589",10.20
+Karur,135,GEN,Karur,Senthilbalaji V,DMK,"234,703","206,349",87.90,"12,448",6.00
+Katpadi,40,GEN,Vellore,Duraimurugan,DMK,"238,365","184,357",77.30,746,0.40
+Kattumannarkoil,159,SC,Cuddalore,Sinthanai Selvan,VCK,"221,278","174,913",79.00,"10,565",6.00
+Kavundampalayam,117,GEN,Coimbatore,G.Arunkumar,AIADMK,"429,273","307,026",71.50,"9,776",3.20
+Killiyoor,234,GEN,Kanniyakumari,Rajesh Kumar S,INC,"241,595","169,164",70.00,"55,400",32.70
+Kilpennathur,64,GEN,Tiruvannamalai,K.Pitchandi,DMK,"244,367","202,925",83.00,"26,787",13.20
+Kilvaithinankuppam,45,SC,Vellore,M.Jagan Moorthy,AIADMK,"216,745","172,326",79.50,"10,582",6.10
+Kilvelur,164,SC,Nagapattinam,Nagaimaali V P,CPI(M),"170,064","142,098",83.60,"16,985",12.00
+Kinathukadavu,122,GEN,Coimbatore,Damodaran.S,AIADMK,"300,959","230,158",76.50,"1,095",0.50
+Kolathur,13,GEN,Chennai,M.K. Stalin,DMK,"268,296","171,859",64.10,"70,384",41.00
+Kovilpatti,218,GEN,Thoothukkudi,Kadambur Raju,AIADMK,"255,257","179,804",70.40,"12,403",6.90
+Krishnagiri,53,GEN,Krishnagiri,Ashokkumar.K,AIADMK,"256,172","209,811",81.90,794,0.40
+Krishnarayapuram,136,SC,Karur,Sivagama Sundari.K,DMK,"205,230","179,725",87.60,"31,625",17.60
+Kulithalai,137,GEN,Tiruchirappalli,R.Manickam,DMK,"217,112","196,265",90.40,"23,540",12.00
+Kumarapalayam,97,GEN,Namakkal,Thangamani.P,AIADMK,"243,526","200,583",82.40,"31,646",15.80
+Kumbakonam,171,GEN,Thanjavur,"Anbalagan, G.",DMK,"258,243","195,916",75.90,"21,383",10.90
+Kunnam,148,GEN,Perambalur,"Sivasankar, S.S.",DMK,"262,924","219,126",83.30,"6,329",2.90
+Kurinjipadi,156,GEN,Cuddalore,M.R.K.Panneerselvam,DMK,"231,741","197,569",85.30,"17,527",8.90
+Lalgudi,143,GEN,Tiruchirappalli,A.Soundarapandian,DMK,"210,610","173,554",82.40,"16,949",9.80
+Madathukulam,126,GEN,Coimbatore,C Mahendran,AIADMK,"237,102","180,854",76.30,"6,438",3.60
+Madavaram,9,GEN,Thiruvallur,Sudharsanam. S,DMK,"422,016","300,534",71.20,"57,071",19.00
+Madurai Central,193,GEN,Madurai,Palanivel Thiaga Rajan,DMK,"236,127","147,989",62.70,"34,176",23.10
+Madurai East,189,GEN,Madurai,Moorthy P,DMK,"307,184","235,948",76.80,"49,604",21.00
+Madurai North,191,GEN,Madurai,Thalapathi G,DMK,"236,352","154,992",65.60,"22,916",14.80
+Madurai South,192,GEN,Madurai,Boominathan.M,DMK,"225,393","146,282",64.90,"6,515",4.50
+Madurai West,194,GEN,Madurai,Raju. K,AIADMK,"294,018","199,920",68.00,"9,121",4.60
+Madurantakam,35,SC,Kancheepuram,Maragatham. K,AIADMK,"218,271","184,471",84.50,"3,570",1.90
+Maduravoyal,7,GEN,Thiruvallur,Ganapathy.K,DMK,"413,109","271,724",65.80,"31,721",11.70
+Mailam,71,GEN,Viluppuram,Sivakumar C,PMK,"214,350","176,105",82.20,"2,230",1.30
+Manachanallur,144,GEN,Tiruchirappalli,S. Kathiravan,DMK,"231,827","195,652",84.40,"59,618",30.50
+Manamadurai,187,SC,Sivaganga,Tamilarasi A.,DMK,"264,191","201,728",76.40,"14,091",7.00
+Manapparai,138,GEN,Tiruchirappalli,Abdul Samad P,DMK,"274,874","220,739",80.30,"12,243",5.50
+Mannargudi,167,GEN,Thiruvarur,Rajaa T R B,DMK,"249,307","192,269",77.10,"37,393",19.40
+Mayiladuthurai,161,GEN,Nagapattinam,Rajakumar.S,INC,"235,653","173,573",73.70,"2,742",1.60
+Melur,188,GEN,Madurai,Periyapullan @ Selvam P.,AIADMK,"239,856","181,898",75.80,"35,162",19.30
+Mettuppalayam,111,GEN,Coimbatore,Selvaraj A K,AIADMK,"280,968","222,350",79.10,"2,456",1.10
+Mettur,85,GEN,Salem,Sadhasivam.S,PMK,"274,547","216,195",78.70,656,0.30
+Modakkurichi,100,GEN,Erode,Saraswathi.C,BJP,"229,956","179,515",78.10,281,0.20
+Mudhukulathur,212,GEN,Ramanathapuram,R.S.Rajakannappan,DMK,"303,458","220,690",72.70,"20,721",9.40
+Musiri,145,GEN,Tiruchirappalli,N. Thiyagarajan,DMK,"224,014","178,614",79.70,"26,836",15.00
+Mylapore,25,GEN,Chennai,Velu.Dha,DMK,"258,722","152,143",58.80,"12,633",8.30
+Nagapattinam,163,GEN,Nagapattinam,J. Mohamed Shanavas,VCK,"189,926","142,665",75.10,"7,238",5.10
+Nagercoil,230,GEN,Kanniyakumari,Gandhi M.R.,BJP,"254,201","183,255",72.10,"11,669",6.40
+Namakkal,94,GEN,Namakkal,Ramalingam P,DMK,"248,958","205,474",82.50,"27,861",13.60
+Nanguneri,227,GEN,Tirunelveli,Ruby R Manoharan,INC,"256,674","190,985",74.40,"16,486",8.60
+Nannilam,169,GEN,Thiruvarur,Kamaraj R,AIADMK,"260,052","220,754",84.90,"4,424",2.00
+Natham,131,GEN,Dindigul,Natham.R.Viswanathan,AIADMK,"269,460","223,800",83.10,"11,932",5.30
+Neyveli,153,GEN,Cuddalore,Saba.Rajendran,DMK,"210,354","162,959",77.50,977,0.60
+Nilakkottai,130,SC,Dindigul,S.Thenmozhi,AIADMK,"229,621","183,545",79.90,"27,618",15.00
+Oddanchatram,128,GEN,Dindigul,Sakkarapani R,DMK,"231,804","200,299",86.40,"28,742",14.30
+Omalur,84,GEN,Salem,R.Mani,AIADMK,"282,810","247,427",87.50,"55,294",22.30
+Orathanadu,175,GEN,Thanjavur,"Vaithilingam, R.",AIADMK,"231,555","190,973",82.50,"28,835",15.10
+Ottapidaram,217,SC,Thoothukkudi,Shunmugaiah C,DMK,"234,643","176,272",75.10,"8,510",4.80
+Padmanabhapuram,232,GEN,Kanniyakumari,"Mano Thangaraj, T.",DMK,"227,967","169,120",74.20,"26,885",15.90
+Palacode,57,GEN,Dharmapuri,Anbalagan.K.P.,AIADMK,"226,980","205,244",90.40,"28,100",13.70
+Palani,127,GEN,Dindigul,Senthil Kumar I.P,DMK,"269,523","204,274",75.80,"30,056",14.70
+Palayamkottai,226,GEN,Tirunelveli,Abdul Wahab .M,DMK,"261,331","159,444",61.00,"52,141",32.70
+Palladam,115,GEN,Coimbatore,Anandan M S M,AIADMK,"362,477","259,709",71.60,"32,691",12.60
+Pallavaram,30,GEN,Kancheepuram,Karunanithi,DMK,"407,266","260,066",63.90,"36,814",14.20
+Panruti,154,GEN,Cuddalore,Velmurugan.T,DMK,"237,508","195,726",82.40,"4,697",2.40
+Papanasam,172,GEN,Thanjavur,"Dr.Jawahirullah, M.H.",DMK,"246,963","195,778",79.30,"16,273",8.30
+Pappireddipatti,60,GEN,Dharmapuri,Govindasamy.A,AIADMK,"253,899","219,656",86.50,"36,943",16.80
+Paramakudi,209,SC,Ramanathapuram,Murugesan S,DMK,"247,151","180,900",73.20,"13,285",7.30
+Paramathi-Velur,95,GEN,Namakkal,Sekar S,AIADMK,"213,768","182,733",85.50,"7,662",4.20
+Pattukkottai,176,GEN,Thanjavur,"Annadurai, K.",DMK,"233,674","176,174",75.40,"25,269",14.30
+Pennagaram,58,GEN,Dharmapuri,Mani. G.K,PMK,"237,160","208,546",87.90,"21,186",10.20
+Perambalur,147,SC,Perambalur,"Prabhaharan, M.",DMK,"289,778","238,142",82.20,"31,034",13.00
+Perambur,12,GEN,Chennai,Shekar. R.D,DMK,"293,597","198,872",67.70,"54,976",27.60
+Peravurani,177,GEN,Thanjavur,"Ashokkumar, N.",DMK,"211,705","170,080",80.30,"23,503",13.80
+Periyakulam,199,SC,Theni,K.S.Saravanakumaar,DMK,"269,420","199,349",74.00,"21,321",10.70
+Perundurai,103,GEN,Erode,"Jayakumar, S.",AIADMK,"217,923","188,654",86.60,"14,507",7.70
+Pollachi,123,GEN,Coimbatore,Pollachi V. Jayaraman,AIADMK,"218,199","175,762",80.60,"1,725",1.00
+Polur,66,GEN,Tiruvannamalai,Agri Krishnamurthy. S S,AIADMK,"236,936","200,868",84.80,"9,725",4.80
+Ponneri,2,SC,Thiruvallur,Durai. Chandrasekar,INC,"254,351","208,800",82.10,"9,689",4.60
+Poompuhar,162,GEN,Nagapattinam,Nivedha M. Murugan,DMK,"260,928","207,105",79.40,"3,299",1.60
+Poonamallee,5,SC,Thiruvallur,Krishnaswamy A,DMK,"332,331","260,869",78.50,"94,110",36.10
+Pudukkottai,180,GEN,Pudukkottai,V . Muthuraja,DMK,"229,689","179,288",78.10,"13,001",7.30
+Radhapuram,228,GEN,Tirunelveli,M.Appavu,DMK,"256,384","186,407",72.70,"5,925",3.20
+Rajapalayam,202,GEN,Virudhunagar,Thangapandian S.,DMK,"230,033","176,833",76.90,"3,898",2.20
+Ramanathapuram,211,GEN,Ramanathapuram,Katharbatcha Muthuramalingam,DMK,"293,684","213,345",72.60,"50,479",23.70
+Ranipet,41,GEN,Vellore,R.Gandhi,DMK,"254,312","205,830",80.90,"16,498",8.00
+Rasipuram,92,SC,Namakkal,Mathiventhan M,DMK,"229,784","194,794",84.80,"1,952",1.00
+Rishivandiyam,78,GEN,Viluppuram,Karthikeyan K,DMK,"254,340","212,686",83.60,"41,728",19.60
+Royapuram,17,GEN,Chennai,Murthy.R.Idream,DMK,"178,693","120,290",67.30,"27,779",23.10
+Saidapet,23,GEN,Chennai,Subramanian. Ma,DMK,"269,884","159,169",59.00,"29,295",18.40
+Salem (North),89,GEN,Salem,R. Rajendran,DMK,"266,004","200,837",75.50,"7,588",3.80
+Salem (South),90,GEN,Salem,E.Balasubramanian,AIADMK,"253,910","198,122",78.00,"22,609",11.40
+Salem (West),88,GEN,Salem,Arul. R,PMK,"286,676","214,945",75.00,"21,499",10.00
+Sankarankovil,219,SC,Tirunelveli,Raja E,DMK,"243,171","181,381",74.60,"5,297",2.90
+Sankarapuram,79,GEN,Viluppuram,Udhayasuriyan T,DMK,"256,349","214,849",83.80,"45,963",21.40
+Sankari,87,GEN,Salem,"Sundararajan, S.",AIADMK,"263,382","230,778",87.60,"20,045",8.70
+Sattur,204,GEN,Virudhunagar,"Raghuraman, A.R.R.",DMK,"237,493","190,486",80.20,"11,179",5.90
+Senthamangalam,93,ST,Namakkal,Ponnusamy K,DMK,"235,223","197,177",83.80,"10,493",5.30
+Sholavandan,190,SC,Madurai,Venkatesan A,DMK,"212,801","174,400",82.00,"17,045",9.80
+Sholinghur,39,GEN,Vellore,A.M.Munirathinam,INC,"262,083","222,870",85.00,"26,698",12.00
+Shozhinganallur,27,GEN,Kancheepuram,S.Aravindramesh,DMK,"638,950","385,325",60.30,"35,405",9.20
+Singanallur,121,GEN,Coimbatore,"Jayaram, K.R",AIADMK,"308,023","200,589",65.10,"10,854",5.40
+Sirkazhi,160,SC,Nagapattinam,Panneerselvam,DMK,"239,251","190,348",79.60,"12,148",6.40
+Sivaganga,186,GEN,Sivaganga,Pr. Senthilnathan,AIADMK,"286,529","200,774",70.10,"11,253",5.60
+Sivakasi,205,GEN,Virudhunagar,Ashokan.G,INC,"246,554","183,320",74.40,"17,319",9.40
+Sriperumbudur,29,SC,Kancheepuram,Selvaperunthagai,INC,"327,294","262,123",80.10,"10,879",4.20
+Srirangam,139,GEN,Tiruchirappalli,Palaniyandi.M,DMK,"296,286","237,823",80.30,"19,915",8.40
+Srivaikuntam,216,GEN,Thoothukkudi,Amirtharaj .S,INC,"214,449","163,630",76.30,"17,372",10.60
+Srivilliputhur,203,SC,Virudhunagar,"Manraj, E.M.",AIADMK,"238,501","183,373",76.90,"12,738",6.90
+Sulur,116,GEN,Coimbatore,Kandasamy V.P.,AIADMK,"295,216","239,043",81.00,"31,932",13.40
+Tambaram,31,GEN,Kancheepuram,Raja.S.R,DMK,"380,754","246,691",64.80,"36,824",14.90
+Tenkasi,222,GEN,Tirunelveli,Palani Nadar.S,INC,"275,643","212,949",77.30,370,0.20
+Thalli,56,GEN,Krishnagiri,Ramachandran.T,CPI,"242,107","192,056",79.30,"56,226",29.30
+Thanjavur,174,GEN,Thanjavur,"Neelamegam, T.K.G.",DMK,"277,373","192,921",69.60,"47,149",24.40
+Thiru-Vi-Ka-Nagar,15,SC,Chennai,Sivakumar.P,DMK,"210,344","132,650",63.10,"55,013",41.50
+Thirumangalam,196,GEN,Madurai,Udhayakumar R B,AIADMK,"268,427","219,524",81.80,"14,087",6.40
+Thirumayam,181,GEN,Pudukkottai,S.Regupathy,DMK,"215,471","173,462",80.50,"1,382",0.80
+Thiruparankundram,195,GEN,Madurai,"Rajanchellappa, V.V.",AIADMK,"304,719","233,776",76.70,"29,489",12.60
+Thiruporur,33,GEN,Kancheepuram,S.S.Balaji,VCK,"270,769","224,747",83.00,"1,947",0.90
+Thiruthuraipoondi,166,SC,Thiruvarur,Marimuthu K,CPI,"230,016","184,573",80.20,"30,068",16.30
+Thiruvaiyaru,173,GEN,Thanjavur,Durai.Chandrasekaran,DMK,"257,341","210,250",81.70,"53,650",25.50
+Thiruvallur,4,GEN,Thiruvallur,"Raajendran, V.G.",DMK,"260,870","212,371",81.40,"22,701",10.70
+Thiruvarur,168,GEN,Thiruvarur,Kalaivanan Poondi K.,DMK,"269,259","206,637",76.70,"51,174",24.80
+Thiruverumbur,142,GEN,Tiruchirappalli,Anbil Mahesh Poyyamozhi,DMK,"283,947","195,595",68.90,"49,697",25.40
+Thiruvidaimarudur,170,SC,Thanjavur,"Chezhiaan, Govi.",DMK,"243,754","197,206",80.90,"10,680",5.40
+Thiruvottiyur,10,GEN,Thiruvallur,K.P.Shankar,DMK,"287,777","198,885",69.10,"37,661",18.90
+Thiyagarayanagar,24,GEN,Chennai,Karunanithi J,DMK,"231,382","136,497",59.00,137,0.10
+Thondamuthur,119,GEN,Coimbatore,S.P. Velumani,AIADMK,"308,153","228,896",74.30,"41,630",18.20
+Thoothukkudi,214,GEN,Thoothukkudi,P.Geetha Jeevan,DMK,"279,188","186,838",66.90,"50,310",26.90
+Thousand Lights,20,GEN,Chennai,Ezhilan N,DMK,"233,867","134,555",57.50,"32,462",24.10
+Thuraiyur,146,SC,Tiruchirappalli,S.Stalinkumar,DMK,"218,430","174,282",79.80,"22,071",12.70
+Tindivanam,72,SC,Viluppuram,Arjunan P,AIADMK,"221,033","181,015",81.90,"9,753",5.40
+Tiruchendur,215,GEN,Thoothukkudi,Anitha R. Radhakrishnan,DMK,"234,874","173,485",73.90,"25,263",14.60
+Tiruchengodu,96,GEN,Namakkal,Eswaran E R,DMK,"222,373","183,151",82.40,"2,862",1.60
+Tiruchirappalli (East),141,GEN,Tiruchirappalli,"Inigo Irudayaraj,s.",DMK,"247,148","171,321",69.30,"53,797",31.40
+Tiruchirappalli (West),140,GEN,Tiruchirappalli,"Nehru, K.N.",DMK,"260,130","180,982",69.60,"85,109",47.00
+Tiruchuli,208,GEN,Virudhunagar,Thangam Thenarasu,DMK,"213,068","172,071",80.80,"60,992",35.40
+Tirukkoyilur,76,GEN,Viluppuram,K.Ponmudy,DMK,"246,907","194,178",78.60,"59,680",30.70
+Tirunelveli,224,GEN,Tirunelveli,Nainar Nagenthran,BJP,"278,329","195,496",70.20,"23,107",11.80
+Tirupattur,50,GEN,Vellore,A. Nallathambi,DMK,"229,174","184,298",80.40,"28,240",15.30
+Tiruppattur,185,GEN,Sivaganga,Kr.Periyakaruppan,DMK,"281,221","209,913",74.60,"37,374",17.80
+Tiruppur (North),113,GEN,Coimbatore,Vijeyakumar.K.N,AIADMK,"354,414","235,930",66.60,"40,102",17.00
+Tiruppur (South),114,GEN,Coimbatore,Selvaraj. K.,DMK,"261,872","173,276",66.20,"4,709",2.70
+Tiruttani,3,GEN,Thiruvallur,S.Chandran,DMK,"276,906","230,959",83.40,"29,253",12.70
+Tiruvadanai,210,GEN,Ramanathapuram,Karumanickam,INC,"279,531","201,047",71.90,"13,852",6.90
+Tiruvannamalai,63,GEN,Tiruvannamalai,E V Velu,DMK,"274,359","206,642",75.30,"94,673",45.80
+Tittakudi,151,SC,Cuddalore,"Ganesan, C.V.",DMK,"213,980","167,185",78.10,"21,563",12.90
+Udhagamandalam,108,GEN,The Nilgiris,"Ganesh, R.",INC,"201,429","139,726",69.40,"5,348",3.80
+Udumalaipettai,125,GEN,Coimbatore,"Radhakrishnan,k.",AIADMK,"257,707","192,880",74.80,"21,895",11.40
+Ulundurpettai,77,GEN,Viluppuram,Manikannan A J,DMK,"282,798","242,573",85.80,"5,256",2.20
+Usilampatti,197,GEN,Madurai,Ayyappan P,AIADMK,"274,840","211,481",76.90,"7,477",3.50
+Uthangarai,51,SC,Krishnagiri,T.M.Tamilselvam,AIADMK,"227,710","186,864",82.10,"28,387",15.20
+Uthiramerur,36,GEN,Kancheepuram,Sundar K,DMK,"247,035","209,577",84.80,"1,622",0.80
+Valparai,124,SC,Coimbatore,Amulkandasami T K,AIADMK,"198,211","143,757",72.50,"12,223",8.50
+Vandavasi,69,SC,Tiruvannamalai,Ambethkumar S,DMK,"230,358","184,205",80.00,"35,953",19.50
+Vaniyambadi,47,GEN,Vellore,G.Sendhil Kumar,AIADMK,"237,690","188,505",79.30,"4,904",2.60
+Vanur,73,SC,Viluppuram,Chakrapani M,AIADMK,"220,185","180,845",82.10,"21,727",12.00
+Vasudevanallur,220,SC,Tirunelveli,"Sadhan Thirumalaikumar, Doctor.T",DMK,"229,421","173,710",75.70,"2,367",1.40
+Vedaranyam,165,GEN,Nagapattinam,O.S.Manian,AIADMK,"184,292","157,387",85.40,"12,329",7.80
+Vedasandur,133,GEN,Dindigul,Gandhirajan S,DMK,"253,655","212,277",83.70,"17,553",8.30
+Veerapandi,91,GEN,Salem,"Rajamuthu, M.",AIADMK,"248,943","222,293",89.30,"19,895",8.90
+Velachery,26,GEN,Chennai,Jmh.Aassan Maulaana,INC,"300,466","174,972",58.20,"4,352",2.50
+Vellore,43,GEN,Vellore,Karthikeyan .P,DMK,"245,491","178,458",72.70,"9,181",5.10
+Veppanahalli,54,GEN,Krishnagiri,K.P.Munusamy,AIADMK,"238,757","203,479",85.20,"3,054",1.50
+Vikravandi,75,GEN,Viluppuram,Pugazhenthi N,DMK,"223,362","192,495",86.20,"9,573",5.00
+Vilathikulam,213,GEN,Thoothukkudi,Markandayan V,DMK,"209,256","166,133",79.40,"38,549",23.20
+Vilavancode,233,GEN,Kanniyakumari,Vijayadharani S,INC,"242,916","167,054",68.80,"28,669",17.20
+Villivakkam,14,GEN,Chennai,A . Vetriazhagan,DMK,"248,131","142,648",57.50,"37,237",26.10
+Villupuram,74,GEN,Viluppuram,Lakshmanan R,DMK,"249,865","203,890",81.60,"14,868",7.30
+Viralimalai,179,GEN,Pudukkottai,Vijaya Basker C,AIADMK,"213,462","193,038",90.40,"23,598",12.20
+Virudhunagar,206,GEN,Virudhunagar,Seenivasan A.R.R,DMK,"212,379","160,147",75.40,"21,339",13.30
+Virugampakkam,22,GEN,Chennai,Amv.Prabhakara Raja,DMK,"273,740","167,524",61.20,"18,367",11.00
+Vriddhachalam,152,GEN,Cuddalore,Radhakrishnan,INC,"242,427","195,973",80.80,862,0.40
+Yercaud,83,ST,Salem,G. Chitra,AIADMK,"273,284","236,945",86.70,"25,955",11.00
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
