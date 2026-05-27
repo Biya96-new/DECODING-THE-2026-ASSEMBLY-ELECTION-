@@ -221,19 +221,22 @@ If we step back from the numbers, a clear pattern emerges:
 
 # 🌐 Live Dashboard  
 
-*(Add your Power BI link here)*  
+*(<iframe title="tn_election2026" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzVhMzcwN2MtMDk0MC00YzE3LThkMGMtODU5ZTUyMjA0YjM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)*  
 
 ---
 
 # 📷 Dashboard Screenshots  
 
-*(Add images here)*  
+*(<img width="644" height="359" alt="pg1" src="https://github.com/user-attachments/assets/3d6c9a7d-9179-4056-ab5d-cb758a048879" />
+)* 
 
+*(<img width="644" height="358" alt="pg2" src="https://github.com/user-attachments/assets/099e487e-4011-4ecb-9b76-63093a1d59c5" />
+)*  
 ---
 
 # 🔗 Connect With Me  
 
-LinkedIn: [Add Your LinkedIn Profile URL Here]  
+LinkedIn: [Add Your LinkedIn Profile URL Here](https://www.linkedin.com/in/biya-rocky-dataanalyst/)]  
 
 ---
 
