@@ -217,10 +217,6 @@ If we step back from the numbers, a clear pattern emerges:
 - Urban areas became more volatile than rural regions  
 - The state moved into a multi-party competitive system  
 
-👉 Final conclusion:  
-
-> This election was not just about winning seats — it was about how voter behavior reshaped the entire political map of Tamil Nadu.  
-
 ---
 
 # 🌐 Live Dashboard  
