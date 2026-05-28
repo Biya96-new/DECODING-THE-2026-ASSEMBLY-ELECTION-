@@ -227,11 +227,11 @@ If we step back from the numbers, a clear pattern emerges:
 
 # 📷 Dashboard Screenshots  
 
-*(<img width="644" height="359" alt="pg1" src="https://github.com/user-attachments/assets/3d6c9a7d-9179-4056-ab5d-cb758a048879" />
-)* 
+*<img width="644" height="359" alt="pg1" src="https://github.com/user-attachments/assets/3d6c9a7d-9179-4056-ab5d-cb758a048879" />
+* 
 
-*(<img width="644" height="358" alt="pg2" src="https://github.com/user-attachments/assets/099e487e-4011-4ecb-9b76-63093a1d59c5" />
-)*  
+*<img width="769" height="402" alt="2" src="https://github.com/user-attachments/assets/30940422-bec2-4f62-8ce0-586903071a38" />
+*  
 ---
 
 # 🔗 Connect With Me  
